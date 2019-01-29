@@ -1,0 +1,35 @@
+p{
+    background: grey;
+    margin-right: 10%;
+
+
+}
+
+
+.secondParagraph{
+    background: blue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.quote{
+    background: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.jib{
+
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    border-style: dashed;
+    margin-right: auto;
+    margin-left: auto;
+
+
+
+}
